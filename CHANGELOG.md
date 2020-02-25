@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.108.0](https://www.github.com/googleapis/java-bigquery/compare/v1.107.0...v1.108.0) (2020-02-25)
+
+
+### Features
+
+* re-generated  to pick up changes in the API or client library generator. ([#188](https://www.github.com/googleapis/java-bigquery/issues/188)) ([2720b12](https://www.github.com/googleapis/java-bigquery/commit/2720b12f536ad363d9884b5082b7e238183a95e9))
+
 ## [1.107.0](https://www.github.com/googleapis/java-bigquery/compare/v1.106.0...v1.107.0) (2020-02-19)
 
 
